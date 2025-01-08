@@ -1,4 +1,4 @@
-# Modelagem de Domínios Rico 
+# ASP NET Core Enterprise Applications
 
 Apresentação de uma aplicação web que ilustra a aplicabilidade do DDD, com foco na aplicação prática da modelagem tática, linguagem Ubíqua e modelagem estratégica.
 
