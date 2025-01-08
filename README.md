@@ -1,4 +1,4 @@
-# ASP NET CORE ENTERPRISE APPLICATIONS
+# ASP.NET Core Enterprise Applications
 
 ## 📝️ Escopo do Projeto
 
