@@ -3,7 +3,12 @@
 ## 📝️ Escopo do Projeto
 
 <p align="justify"> 
-O projeto tem como objetivo ensinar a aplicação prática de padrões de modelagem de domínios ricos, com foco em DDD (Domain-Driven Design), CQRS e Event Sourcing. Além da teoria essencial, será utilizado .NET C# com orientação a objetos correta, incorporando os princípios do SOLID e Design Patterns. Envolve também o desenvolvimento de uma aplicação de e-commerce, abordando conceitos como carrinho de compras, clientes e pedidos. Aprenderemos a aplicar DDD e entender quando é adequado adotar ou simplificar certos padrões, reconhecendo a importância de escolher a complexidade correta para a solução.
+O projeto tem como objetivo ensinar a aplicação prática de diversas técnicas essenciais para o desenvolvimento
+de aplicações corporativas. Vamos explorar de forma aprofundada o conceito de aplicações corporativas, 
+abordando aspectos como modelagem de dados, decisões de arquitetura e implementação de recursos de comunicação,
+como filas, chamadas remotas e outros mecanismos de integração. Também será discutida a distribuição de 
+aplicações por meio de containers Docker, entre outras tecnologias. O objetivo deste projeto é capacitar 
+os participantes para o desenvolvimento de aplicações de médio e grande porte.
 </p>
 
 ## 🛠️ Construído com
