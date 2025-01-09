@@ -7,8 +7,7 @@ O projeto tem como objetivo ensinar a aplicação prática de diversas técnicas
 de aplicações corporativas. Vamos explorar de forma aprofundada o conceito de aplicações corporativas, 
 abordando aspectos como modelagem de dados, decisões de arquitetura e implementação de recursos de comunicação,
 como filas, chamadas remotas e outros mecanismos de integração. Também será discutida a distribuição de 
-aplicações por meio de containers Docker, entre outras tecnologias. O objetivo deste projeto é capacitar 
-os participantes para o desenvolvimento de aplicações de médio e grande porte.
+aplicações por meio de containers Docker.
 </p>
 
 ## 🛠️ Construído com
